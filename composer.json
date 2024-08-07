@@ -1,0 +1,24 @@
+{
+    "name": "ae8/contaazul",
+    "version": "1.0",
+    "description": "ContaAzul API Library",
+    "keywords": ["api", "contaazul"],
+    "homepage": "https://github.com/arismarioneves/contaazul",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arismário Neves (Mari05liM)",
+            "email": "mariodev@outlook.com.br",
+            "homepage": "https://arismario.dev/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "AE8\\ContaAzul\\": "src/"
+        }
+    }
+}
