@@ -1,8 +1,8 @@
 <?php
 
-namespace ContaAzul\Auth;
+namespace AE8\ContaAzul\Auth;
 
-use ContaAzul\Helpers\ApiRequest;
+use AE8\ContaAzul\Helpers\ApiRequest;
 
 class Auth
 {
