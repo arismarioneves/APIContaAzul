@@ -1,6 +1,6 @@
 <?php
 
-namespace ContaAzul\Helpers;
+namespace AE8\ContaAzul\Helpers;
 
 class ApiRequest
 {

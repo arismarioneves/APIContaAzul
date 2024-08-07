@@ -90,7 +90,7 @@ Armazene esses valores em uma sessão para monitorar o tempo de expiração e re
 Quando o token expirar (após 60 minutos), você pode renová-lo facilmente com o método:
 
 ```php
-$getToken = $apiContaazul->requestRefreshedToken($refresh_token);
+$getToken = $apiContaazul->requestToken($refresh_token);
 ```
 
 ### Usando a API
